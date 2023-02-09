@@ -1,0 +1,10 @@
+conda activate  ..................
+cd ........................
+pip install mediapipe
+
+python selfi.py
+python hand.py
+python multi_face.py
+
+A live demo 
+https://codepen.io/mediapipe/pen/RwGWYJw
